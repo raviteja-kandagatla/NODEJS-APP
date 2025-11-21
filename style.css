@@ -1,0 +1,14 @@
+div {
+    width: 75%;
+    margin: 20px auto;
+    padding: 50px;
+    border: 1px solid blueviolet;
+}
+
+#dev {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: left;
+    padding-top: 20px;
+}
